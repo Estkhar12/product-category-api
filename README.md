@@ -16,8 +16,8 @@ To run this app in your machine, Node.js and MongoDB should be installed in your
 
 Follow the steps below to run the app in your system
 
-1. Open terminal and run command
-    to clone the project
+1. Open terminal and run command 
+    to clone the project https://github.com/Estkhar12/product-category-api.git
 
 2. Open the project in VS code or any other code editor.
 3. Run command `npm i` to download all the dependencies
